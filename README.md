@@ -2,6 +2,7 @@
 # LGPS: Lightweight GAN-Based Polyp Segmentation
 
 This repository contains the code for the paper **"LGPS: A Lightweight GAN-Based Approach for Polyp Segmentation in Colonoscopy Images"**.
+![LGPS_smallest_6](https://github.com/user-attachments/assets/a3676ae3-ffcd-4db3-864a-682e77bed462)
 
 ## Installation
 1. Clone this repository:
