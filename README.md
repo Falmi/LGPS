@@ -7,7 +7,7 @@ This repository contains the code for the paper **"LGPS: A Lightweight GAN-Based
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Falmi/LGPS.git
 2. Install dependencies:
    pip install -r requirements.txt
 ## Usage
