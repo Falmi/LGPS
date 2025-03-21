@@ -46,7 +46,7 @@ For more details, please refer to our [paper](#citation).
 - TensorFlow 2.x
 - Keras 2.x
 - Other dependencies listed in `requirements.txt`
-###steps
+### steps
 1. Clone this repository:
    ```bash
    git clone https://github.com/Falmi/LGPS.git
