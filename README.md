@@ -41,10 +41,8 @@ For more details, please refer to our [paper](#citation).
 ---
 ## Installation
 ### Prerequisites
-- Python 3.8+
-- TensorFlow 2.x
-- Keras 2.x
-- Other dependencies listed in `requirements.txt`
+```bash
+pip install -r requirements.txt
 ### steps
 1. Clone this repository:
    ```bash
