@@ -51,7 +51,7 @@ For more details, please refer to our [paper](#citation).
    ```bash
    git clone https://github.com/Falmi/LGPS.git
 2. Install dependencies:
-```bash
+   ```bash
    pip install -r requirements.txt
 ## Datasets
 Kvasir-SEG: Download
@@ -62,7 +62,7 @@ PolypGen: Download
 Place the datasets in the data/ directory and update the paths in the configuration files.
 ## Usage
 1. Preprocess your dataset.
-```bash
+   ```bash
 cd data
 python Preprocess_SEG.py 
 python Preprocess_CVC_CliniCDB.py 
