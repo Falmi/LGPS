@@ -68,9 +68,8 @@ python Preprocess_SEG.py
 python Preprocess_CVC_CliniCDB.py 
 2. Train the model:
    python train.py
-3. Evaluate the model:
-download the pretrained model from [Download here](https://drive.google.com/uc?export=download&id=1HI42ASPDcfjW5mNvDlQuLBzjoKVK3DYE)
-  python Test.py python test.py --dataset_path /path/to/test_dataset --model_path /path/to/model
+3. Evaluate the model:download the pretrained model from [here](https://drive.google.com/uc?export=download&id=1HI42ASPDcfjW5mNvDlQuLBzjoKVK3DYE)
+   python Test.py python test.py --dataset_path /path/to/test_dataset --model_path /path/to/model
 
 ## Citation
 Submited to IEEE Transactions on Medical Imaging
