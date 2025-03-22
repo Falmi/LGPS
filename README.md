@@ -53,11 +53,11 @@ For more details, please refer to our [paper](#citation).
    ```bash
    pip install -r requirements.txt
 ## Datasets
-Kvasir-SEG: [Download](https://datasets.simula.no/kvasir-seg/)
-CVC-ClinicDB: [Download](https://polyp.grand-challenge.org/CVCClinicDB/)
-ETIS: Download [Download](https://polyp.grand-challenge.org/ETISLarib/)
-CVC-300: [Download](http://pages.cvc.uab.es/CVC-Colon/)
-PolypGen: [Download](https://drive.google.com/drive/folders/16uL9n84SrMt7IiQFzTUQNaJ9TbHJ8DhW)
+-Kvasir-SEG: [Download](https://datasets.simula.no/kvasir-seg/)
+-CVC-ClinicDB: [Download](https://polyp.grand-challenge.org/CVCClinicDB/)
+-ETIS: Download [Download](https://polyp.grand-challenge.org/ETISLarib/)
+-CVC-300: [Download](http://pages.cvc.uab.es/CVC-Colon/)
+-PolypGen: [Download](https://drive.google.com/drive/folders/16uL9n84SrMt7IiQFzTUQNaJ9TbHJ8DhW)
 Place the datasets in the data/ directory and update the paths in the configuration files.
 ## Usage
 1. Preprocess your dataset.
@@ -75,6 +75,6 @@ Place the datasets in the data/ directory and update the paths in the configurat
 ![image](https://github.com/user-attachments/assets/596362f3-38ed-4aa3-ba6f-a6f0c840cb2f)
 
 ## Citation
-Submited to IEEE Transactions on Medical Imaging
-Will be realsed soon on arxiv
+Submited to IEEE Transactions on Medical Imaging. 
+The Prpreing will be realsed soon on arxiv
 ## License
