@@ -41,8 +41,8 @@ For more details, please refer to our [paper](#citation).
 ---
 ## Installation
 ### Prerequisites
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 ### steps
 1. Clone this repository:
    ```bash
