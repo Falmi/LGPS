@@ -58,6 +58,7 @@ For more details, please refer to our [paper](#citation).
 - ETIS: Download [Download](https://polyp.grand-challenge.org/ETISLarib/)
 - CVC-300: [Download](http://pages.cvc.uab.es/CVC-Colon/)
 - PolypGen: [Download](https://drive.google.com/drive/folders/16uL9n84SrMt7IiQFzTUQNaJ9TbHJ8DhW)
+
 Place the datasets in the data/ directory and update the paths in the configuration files.
 ## Usage
 1. Preprocess your dataset.
