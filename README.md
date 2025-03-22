@@ -53,7 +53,7 @@ For more details, please refer to our [paper](#citation).
    ```bash
    pip install -r requirements.txt
 ## Datasets
-Kvasir-SEG: Download
+Kvasir-SEG: [Download](https://datasets.simula.no/kvasir-seg/)
 CVC-ClinicDB: Download
 ETIS: Download
 CVC-300: Download
