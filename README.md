@@ -51,6 +51,7 @@ For more details, please refer to our [paper](#citation).
    ```bash
    git clone https://github.com/Falmi/LGPS.git
 2. Install dependencies:
+```bash
    pip install -r requirements.txt
 ## Datasets
 Kvasir-SEG: Download
@@ -61,13 +62,15 @@ PolypGen: Download
 Place the datasets in the data/ directory and update the paths in the configuration files.
 ## Usage
 1. Preprocess your dataset.
+```bash
 cd data
 python Preprocess_SEG.py 
 python Preprocess_CVC_CliniCDB.py 
 2. Train the model:
    python train.py
 3. Evaluate the model:
-  python Test.py
+download the pretrained model from [here] (https://drive.google.com/file/d/1HI42ASPDcfjW5mNvDlQuLBzjoKVK3DYE/view?usp=drive_link)
+  python Test.py python test.py --dataset_path /path/to/test_dataset --model_path /path/to/model
 
 ## Citation
 Submited to IEEE Transactions on Medical Imaging
