@@ -52,20 +52,24 @@ For more details, please refer to our [paper](#citation).
    git clone https://github.com/Falmi/LGPS.git
 2. Install dependencies:
    pip install -r requirements.txt
+## Datasets
+Kvasir-SEG: Download
+CVC-ClinicDB: Download
+ETIS: Download
+CVC-300: Download
+PolypGen: Download
+Place the datasets in the data/ directory and update the paths in the configuration files.
 ## Usage
 1. Preprocess your dataset.
+cd data
+python Preprocess_SEG.py 
+python Preprocess_CVC_CliniCDB.py 
 2. Train the model:
    python train.py
 3. Evaluate the model:
-  python evaluate.py
-## Datasets
-Kvasir-SEG
-CVC-ClinicDB
+  python Test.py
+
 ## Citation
-@article{tesema2024lgps,
-  title={LGPS: A Lightweight GAN-Based Approach for Polyp Segmentation in Colonoscopy Images},
-  author={Tesema, Fiseha B. and Manzanares, Alejandro Guerra and Author, Third C.},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2024}
-}
+Submited to IEEE Transactions on Medical Imaging
+Will be realsed soon on arxiv
 ## License
