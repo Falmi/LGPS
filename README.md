@@ -70,6 +70,7 @@ Place the datasets in the data/ directory and update the paths in the configurat
    python train.py
 3. Evaluate the model:download the pretrained model from [here](https://drive.google.com/uc?export=download&id=1HI42ASPDcfjW5mNvDlQuLBzjoKVK3DYE)
    python Test.py --model_path /path/to/model
+   python New_Test.py --data_path "data/CVC-ClinicDB" --model_path "XXX.h5"
 
 ## Citation
 Submited to IEEE Transactions on Medical Imaging
