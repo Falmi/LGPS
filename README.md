@@ -64,8 +64,8 @@ Place the datasets in the data/ directory and update the paths in the configurat
 1. Preprocess your dataset.
    ```bash
    cd data
-python Preprocess_SEG.py 
-python Preprocess_CVC_CliniCDB.py 
+   python Preprocess_SEG.py 
+   python Preprocess_CVC_CliniCDB.py 
 2. Train the model:
    python train.py
 3. Evaluate the model:download the pretrained model from [here](https://drive.google.com/uc?export=download&id=1HI42ASPDcfjW5mNvDlQuLBzjoKVK3DYE)
