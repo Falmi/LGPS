@@ -63,7 +63,7 @@ Place the datasets in the data/ directory and update the paths in the configurat
 ## Usage
 1. Preprocess your dataset.
    ```bash
-cd data
+   cd data
 python Preprocess_SEG.py 
 python Preprocess_CVC_CliniCDB.py 
 2. Train the model:
