@@ -69,7 +69,7 @@ python Preprocess_CVC_CliniCDB.py
 2. Train the model:
    python train.py
 3. Evaluate the model:
-download the pretrained model from [here] (https://drive.google.com/file/d/1HI42ASPDcfjW5mNvDlQuLBzjoKVK3DYE/view?usp=drive_link)
+download the pretrained model from [here](https://drive.google.com/file/d/1HI42ASPDcfjW5mNvDlQuLBzjoKVK3DYE/view?usp=drive_link)
   python Test.py python test.py --dataset_path /path/to/test_dataset --model_path /path/to/model
 
 ## Citation
