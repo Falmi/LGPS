@@ -41,8 +41,6 @@ For more details, please refer to our [paper](#citation).
 ---
 ## Installation
 ### Prerequisites
-   ```bash
-   pip install -r requirements.txt
 ### steps
 1. Clone this repository:
    ```bash
@@ -51,11 +49,11 @@ For more details, please refer to our [paper](#citation).
    ```bash
    pip install -r requirements.txt
 ## Datasets
-Kvasir-SEG: [Download](https://datasets.simula.no/kvasir-seg/)
-CVC-ClinicDB: [Download](https://polyp.grand-challenge.org/CVCClinicDB/)
-ETIS: Download [Download](https://polyp.grand-challenge.org/ETISLarib/)
-CVC-300: [Download](http://pages.cvc.uab.es/CVC-Colon/)
-PolypGen: [Download](https://drive.google.com/drive/folders/16uL9n84SrMt7IiQFzTUQNaJ9TbHJ8DhW)
+- Kvasir-SEG: [Download](https://datasets.simula.no/kvasir-seg/)
+- CVC-ClinicDB: [Download](https://polyp.grand-challenge.org/CVCClinicDB/)
+- ETIS: Download [Download](https://polyp.grand-challenge.org/ETISLarib/)
+- CVC-300: [Download](http://pages.cvc.uab.es/CVC-Colon/)
+- PolypGen: [Download](https://drive.google.com/drive/folders/16uL9n84SrMt7IiQFzTUQNaJ9TbHJ8DhW)
 
 Place the datasets in the data/ directory.
 ## Usage
@@ -74,6 +72,14 @@ Place the datasets in the data/ directory.
 ![image](https://github.com/user-attachments/assets/596362f3-38ed-4aa3-ba6f-a6f0c840cb2f)
 
 ## Citation
+- @misc{tesema2025lgpslightweightganbasedapproach,
+      title={LGPS: A Lightweight GAN-Based Approach for Polyp Segmentation in Colonoscopy Images}, 
+      author={Fiseha B. Tesema and Alejandro Guerra Manzanares and Tianxiang Cui and Qian Zhang and Moses Solomon and Sean He},
+      year={2025},
+      eprint={2503.18294},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.18294}, 
+}
 - Submited to IEEE Transactions on Medical Imaging.
-- The Prpreing will be realsed soon on arxiv
 ## License
