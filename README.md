@@ -3,7 +3,8 @@
 
 This repository contains the official implementation of **LGPS**, a lightweight GAN-based framework for polyp segmentation in colonoscopy images. LGPS achieves state-of-the-art performance with only **1.07 million parameters**, making it highly suitable for real-time clinical applications.
 
-![Uploading model for github.png…]()
+![model for github](https://github.com/user-attachments/assets/7eccf8fa-4c3c-475e-a0c3-c097fa4ba9f9)
+
 
 
 ## Table of Contents
